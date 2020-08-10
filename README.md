@@ -14,6 +14,16 @@
 <!--
 **wjdrbs96/wjdrbs96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div align=center>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5anniversary%2Fhit-counter)](https://hits.seeyoufarm.com)
+
+  </div>
+  
+  <br/>
+  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=5anniversary&count_private=true)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on …
