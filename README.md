@@ -1,8 +1,15 @@
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://devlog-wjdrbs96.tistory.com/)](https://devlog-wjdrbs96.tistory.com/)[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/alstn2468)](https://www.facebook.com/alstn2468) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/minsu._.0102/)](https://www.instagram.com/minsu._.0102/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://devlog-wjdrbs96.tistory.com/)](https://devlog-wjdrbs96.tistory.com/)[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010965288474)](https://www.facebook.com/profile.php?id=100010965288474) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/96.gyun//)](https://www.instagram.com/96.gyun//)
 
-## BackEnd Developer
+### BackEnd Developer
 
-* 
+* 💻 Junior Developers
+
+
+### Interest
+
+* Java, JavaScript
+
+* Spring Boot, NodeJS
   
   
 <!--
