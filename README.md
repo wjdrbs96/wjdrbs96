@@ -9,7 +9,7 @@
 
 * Spring, Spring Boot, NodeJS, Express
 
-* TDD, OOP
+* TDD, OOP, Clean Code
 
 * Docker, Kubernetes
   
