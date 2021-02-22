@@ -11,7 +11,7 @@
 
 * TDD, OOP, Clean Code
 
-* Docker, Kubernetes
+* AWS, Docker, Kubernetes
   
 
 <br>
