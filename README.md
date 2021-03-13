@@ -5,7 +5,7 @@
 
 ### Interest
 
-* Java8, JavaScript
+* Java8, Kotlin, JavaScript
 
 * Spring, Spring Boot, NodeJS, Express
 
