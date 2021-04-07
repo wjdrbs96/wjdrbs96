@@ -3,15 +3,7 @@
 * 💻 Junior Developers
 
 
-### Interest
-
-* Java8, Kotlin, JavaScript
-
-* Spring, Spring Boot, NodeJS, Express
-
-* TDD, OOP, Clean Code
-
-* AWS, Docker, Kubernetes
+### [Portfolio](https://www.notion.so/26d006bfa684455a9078b0efc2acb9ab)
   
 
 <br>
