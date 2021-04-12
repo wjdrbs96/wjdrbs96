@@ -1,7 +1,7 @@
 
 ### [Portfolio](https://www.notion.so/26d006bfa684455a9078b0efc2acb9ab)(수정 중)
   
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wjdrbs96)](https://solved.ac/wjdrbs96)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wjdrbs96)](https://solved.ac/Gyunny)
 
 <br>
   
