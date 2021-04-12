@@ -1,7 +1,3 @@
-### BackEnd Developer
-
-* 💻 Junior Developers
-
 
 ### [Portfolio](https://www.notion.so/26d006bfa684455a9078b0efc2acb9ab)(수정 중)
   
