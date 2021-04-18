@@ -39,8 +39,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wjdrbs96&hide=stars&show_icons=true&theme=dracula&count_private=true&line_height=32">
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wjdrbs96)](https://solved.ac/wjdrbs96)
 </p>
 
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wjdrbs96)](https://solved.ac/wjdrbs96)
+ 
 
