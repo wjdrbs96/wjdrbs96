@@ -1,7 +1,5 @@
-
-### [Portfolio](https://www.notion.so/26d006bfa684455a9078b0efc2acb9ab)(수정 중)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwjdrbs96%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wjdrbs96)](https://solved.ac/wjdrbs96)
 
 <br>
 
@@ -38,10 +36,13 @@
   <a href="mailto:wjdrbs966@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wjdrbs966@naver.com"/></a>
 </p>
 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwjdrbs96%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wjdrbs96&hide=stars&show_icons=true&theme=dracula&count_private=true&line_height=32">
 </p>
+
+### [Portfolio](https://www.notion.so/26d006bfa684455a9078b0efc2acb9ab)(수정 중)
+  
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wjdrbs96)](https://solved.ac/wjdrbs96)
+
