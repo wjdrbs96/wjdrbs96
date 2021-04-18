@@ -7,11 +7,11 @@
 
 ## SKills
 
-<p align="center>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
-<p align="center>
+<p align="center">
   <img src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -19,11 +19,11 @@
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<p align="center>
+<p align="center">
   <img src="https://img.shields.io/badge/Jenkins%20-%23FF9900.svg?&style=for-the-badge"/>
 </p>
 
-<p align="center>
+<p align="center">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
