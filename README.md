@@ -11,8 +11,8 @@
   <img src="https://img.shields.io/badge/JavaScript-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
