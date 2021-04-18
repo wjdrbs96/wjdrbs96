@@ -25,6 +25,10 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/git%20-%#D24939.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
 <br>
 
 <h3 align="center"> 🍒 Me 🍒 </h3>
@@ -34,8 +38,6 @@
   <a href="https://www.instagram.com/96.gyun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/96.gyun"/></a>&nbsp
   <a href="mailto:wjdrbs966@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wjdrbs966@naver.com"/></a>
 </p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wjdrbs96&hide=stars&show_icons=true&theme=dracula&count_private=true&line_height=32">
