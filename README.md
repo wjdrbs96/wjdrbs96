@@ -42,7 +42,5 @@
 </p>
 
   
-<p align="center">
-  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wjdrbs96)](https://solved.ac/wjdrbs96)
-</p>
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wjdrbs96)](https://solved.ac/wjdrbs96)
 
