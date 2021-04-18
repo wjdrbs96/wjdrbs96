@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/git%20-%#D24939.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jenkins%20-%#D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
 </p>
 
 <br>
