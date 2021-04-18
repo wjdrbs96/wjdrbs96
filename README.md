@@ -7,10 +7,6 @@
 
 <h3>✨ Languages And Tools ...</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
@@ -24,7 +20,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jenkins%20-%23FF9900.svg?&style=for-the-badge"/>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 
