@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Jenkins%20-%23404d59.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jenkins%20-%23#FFC300.svg?&style=for-the-badge"/>
 
 </p>
 
