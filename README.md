@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
 </p>
 
 <p align="center">
