@@ -14,6 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js%20-%339933.svg?&style=for-the-badge"/>
 </p>
 
 <p align="center">
