@@ -25,13 +25,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF.svg?&style=for-the-badge&logo=Travis%20CI&logoColor=white"/>
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <br>
