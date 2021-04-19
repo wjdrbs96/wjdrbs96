@@ -27,6 +27,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF.svg?&style=for-the-badge&logo=Travis%20CI&logoColor=white"/>
 </p>
 
 <br>
