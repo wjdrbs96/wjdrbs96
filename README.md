@@ -2,7 +2,6 @@
 
 ### [Portfolio](https://www.notion.so/26d006bfa684455a9078b0efc2acb9ab)(수정 중)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="45"/> 😄 Backend Gyunny 😄</h1>
 
 <br>
 
